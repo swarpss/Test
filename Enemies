@@ -47,10 +47,10 @@ Black soul=={"basehp":1800,"speed":3}
 Blue soul=={"basehp":1800,"speed":4.8}
 Lava=={"basehp":1700,"speed":3}
 Fiery=={"basehp":1300,"speed":4.8}
-White soul=={"basehp":33000,"speed":3}
-Melting=={"basehp":15000,"speed":3}
-Furnace=={"basehp":75000,"speed":2.5}
-Igneos=={"basehp":1000000,"speed":0.85}
+White soul=={"basehp":30000,"speed":3}
+Melting=={"basehp":12500,"speed":3}
+Furnace=={"basehp":55000,"speed":2.0}
+Igneos=={"basehp":900000,"speed":0.85}
 Spawn2=={"basehp":4000,"speed":2.4}
 Spawn1=={"basehp":1200,"speed":3.6}
 ConeHead=={"basehp":36750,"speed":3}
