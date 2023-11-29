@@ -42,7 +42,7 @@ Chain=={"basehp":220000,"speed":1}
 Chained=={"basehp":2000,"speed":2.4}
 Burnt=={"basehp":45,"speed":3.6}
 Armor=={"basehp":220,"speed":2.4}
-Red soul=={"basehp":3000,"speed":2.4}
+Red soul=={"basehp":4000,"speed":2.4}
 Black soul=={"basehp":1800,"speed":3}
 Blue soul=={"basehp":1800,"speed":4.0}
 Lava=={"basehp":1700,"speed":3}
